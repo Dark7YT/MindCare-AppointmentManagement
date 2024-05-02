@@ -2,7 +2,7 @@
     "psychologists": [
     {
         "id": 1,
-        "mame": "Romina",
+        "name": "Romina",
         "lastName": "Caceres",
         "phone": 958623748,
         "email": "mikamedic@hotmail.com",
